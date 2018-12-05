@@ -10,3 +10,4 @@
 - Simulation study is designed, detail could be found in the beginning of 'MSAR_and_EM' file.
 - Results are visualized by 'Smoothed_and_Filtering_Probabilities' and 'Estimated_and_True_Values' pictures. As we may see, the estimated and true values are pretty close, showing that the algorithm produces very good estimates.
 - One more point was revealed is the EM algorithm converges so fast (by looking at the 'Estimated_and_True_Values' pictures).
+- Empirical application: DAX log-daily-return is used. Results of filtering and smoothed probabilities are shown in 'DAX' picture.
